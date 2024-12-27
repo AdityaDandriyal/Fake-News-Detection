@@ -16,6 +16,8 @@ The dataset used was downloaded from kaggle.It has 20k data points with the foll
 id: unique id for a news article , title: the title of a news article, author: author of the news article, 
 text: the text of the article; could be incomplete, label: a label that marks the article as potentially unreliable ( 1: fake , 0: real).
 
+Fake news dataset link: https://www.kaggle.com/competitions/fake-news/data
+
 **DATA-PREPROCESSING**
 
 Firstly we dealt with the null values in the dataset by replacing them with an empty string. 
